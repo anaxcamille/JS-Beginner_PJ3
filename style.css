@@ -1,0 +1,31 @@
+*{
+	padding: 0;
+	margin: 0;
+	border-style: border-box;
+}
+body{
+	background-color: #96ceb4;
+}
+#change{
+	margin-top: -20vh;
+	font-weight: bold;
+	border:none;
+	width: 150px;
+	height: 60px;
+	color:white;
+	background-color: #ff6f69;
+	border: 2px solid black;
+}
+.center{
+		margin: 50vh auto 0 90vh;
+}
+.center #demo{
+	margin-left: -90vh;
+	padding:30px;
+	font-size: 5vh;
+	text-align: center;
+	color:black;
+}
+#change:hover{
+	box-shadow: 2px 2px 2px 2px white;
+}
